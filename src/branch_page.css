@@ -32,7 +32,7 @@ a {
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
 
 .wrapper {
@@ -161,7 +161,6 @@ ul {
 .menu-items ul:focus,
 .menu-items ul:active {
   color: rgb(255, 219, 57);
-
 }
 
 .hero {
@@ -213,7 +212,6 @@ ul {
 
 .contact-box button:hover {
   box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.397);
-  
 }
 
 .title {
@@ -469,7 +467,7 @@ ul {
   font-weight: bold;
   cursor: pointer;
   margin: 1.5em auto;
-  max-width:20em;
+  max-width: 20em;
 }
 
 .bottom-quote-bar {
@@ -522,7 +520,7 @@ footer {
   justify-content: stretch;
   display: flex;
   flex-direction: column;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   align-items: center;
   flex: 1;
   /* width: 30%; */
@@ -536,16 +534,15 @@ footer h5 {
 }
 
 footer ul li {
-
   padding: 0.5em;
-  text-align:left;
+  text-align: left;
 }
 
 footer a,
 footer li {
   color: rgb(255, 241, 162);
   text-decoration: none;
-  text-align:left;
+  text-align: left;
 }
 
 footer .line {
@@ -619,7 +616,7 @@ footer .line {
   }
 
   footer {
-      flex-direction:column;
+    flex-direction: column;
   }
   .footer-info,
   .footer-social,
