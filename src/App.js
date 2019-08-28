@@ -1,11 +1,9 @@
-import React from 'react'
-import BranchPage from './BranchPage'
-import './branch_page.css'
+import React from "react";
+import BranchPage from "./BranchPage";
+import "./branch_page.css";
 
 function App() {
-    return ( 
-        <BranchPage />
-    );
+  return <BranchPage />;
 }
 
 export default App;
