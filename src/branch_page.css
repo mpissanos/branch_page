@@ -566,6 +566,7 @@ footer .line {
 
   .service-card {
     min-width: 20em;
+    margin-bottom: 1em;
   }
 
   .header img {
@@ -606,10 +607,6 @@ footer .line {
   .menu-items li {
     margin: 0.5em;
   }
-
-  /* .service-card {
-        min-width: 75vw;
-    } */
 
   .blog-image {
     max-width: 50vw;
