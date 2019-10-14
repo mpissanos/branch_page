@@ -414,6 +414,10 @@ ul {
   box-shadow: 0 10px 10px 0 rgba(15, 83, 60, 0.418);
 }
 
+.blog-slider-title {
+  font-size: 3em;
+  color: rgb(15, 83, 60);
+}
 .blog-slider-body {
   display: flex;
   flex: 1 2 auto;

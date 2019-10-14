@@ -95,6 +95,7 @@ class Body extends Component {
             <Reviews />
           </div>
         </div>
+        <h3 className="blog-slider-title">Related Posts</h3>
         <BlogSlider />
         <BottomQuoteBar />
       </div>
